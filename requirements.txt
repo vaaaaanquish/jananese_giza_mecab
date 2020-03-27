@@ -1,0 +1,3 @@
+cherrypy==7.1.0
+python-Levenshtein
+mecab-python3
